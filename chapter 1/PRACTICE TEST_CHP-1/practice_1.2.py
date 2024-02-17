@@ -1,0 +1,1 @@
+print("String manipulation exercise\n string concatenation is done with "+" string\n eg print('hello world')\n new lines can be creadyed with a blackslash and n\n")

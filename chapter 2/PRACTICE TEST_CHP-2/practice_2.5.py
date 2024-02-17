@@ -1,0 +1,1 @@
+print("what is your name ?"," ",input("enter the name"),"\n","hey",input("entr the name"), "how are you ?")
